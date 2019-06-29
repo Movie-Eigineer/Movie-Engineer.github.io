@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Adam&#39;s Blog</title>
+  
+  <subtitle>My life and attitude</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://ablogmovie.com/"/>
+  <updated>2019-06-29T06:45:09.347Z</updated>
+  <id>http://ablogmovie.com/</id>
+  
+  <author>
+    <name>Adam Lu</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>First</title>
+    <link href="http://ablogmovie.com/2019/06/26/First/"/>
+    <id>http://ablogmovie.com/2019/06/26/First/</id>
+    <published>2019-06-26T05:42:20.000Z</published>
+    <updated>2019-06-29T06:45:09.347Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;​&lt;/p&gt;
+&lt;section class=&quot;xmteditor&quot; style=&quot;display:none;&quot; data-tools=&quot;新媒体管家&quot; data-label=&quot;powered by xmt.cn&quot;&gt;
+&lt;/section&gt;
+&lt;p style=&quot;margin:
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://ablogmovie.com/2019/06/24/hello-world/"/>
+    <id>http://ablogmovie.com/2019/06/24/hello-world/</id>
+    <published>2019-06-24T14:08:13.887Z</published>
+    <updated>2019-06-24T14:08:13.887Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
