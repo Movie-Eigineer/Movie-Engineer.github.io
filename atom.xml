@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://ablogmovie.com/"/>
-  <updated>2019-06-29T06:45:09.347Z</updated>
+  <updated>2019-06-29T10:15:17.943Z</updated>
   <id>http://ablogmovie.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Test</title>
+    <link href="http://ablogmovie.com/2019/06/29/Test/"/>
+    <id>http://ablogmovie.com/2019/06/29/Test/</id>
+    <published>2019-06-29T10:03:13.000Z</published>
+    <updated>2019-06-29T10:15:17.943Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="皇后乐队"><a href="#皇后乐队" class="headerlink" title="皇后乐队"></a>皇后乐队</h2><p><img src="D:%5CAdam%5CGitHub%5Chexo%5Csource_posts%5CTest__5c11a2226beb3.jpg" alt="__5c11a2226beb3"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;皇后乐队&quot;&gt;&lt;a href=&quot;#皇后乐队&quot; class=&quot;headerlink&quot; title=&quot;皇后乐队&quot;&gt;&lt;/a&gt;皇后乐队&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;D:%5CAdam%5CGitHub%5Chexo%5Csource_posts%5CTest__5c1
+      
+    
+    </summary>
+    
+      <category term="电影" scheme="http://ablogmovie.com/categories/%E7%94%B5%E5%BD%B1/"/>
+    
+    
+      <category term="电影" scheme="http://ablogmovie.com/tags/%E7%94%B5%E5%BD%B1/"/>
+    
+  </entry>
   
   <entry>
     <title>First</title>
