@@ -1787,7 +1787,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #78d58c;
+  background: #7d2f54;
 }
 .feed-link,
 .chat {
@@ -2733,4 +2733,18 @@ hr {
 }
 .post-toc .nav .nav-child {
   display: block;
+}
+.out-img-topic {
+  display: block;
+  max-height: 500px;
+  margin-bottom: 24px;
+  overflow: hidden;
+}
+img.img-topic {
+  display: block;
+  margin-left: 0.7em;
+  margin-right: 0.7em;
+  padding: 0;
+  float: right;
+  clear: right;
 }
