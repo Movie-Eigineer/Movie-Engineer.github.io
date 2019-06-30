@@ -52,10 +52,6 @@
 
 
 
-  
-  
-  <link rel="stylesheet" href="/lib/fancybox/source/jquery.fancybox.css">
-
 
 
 
@@ -93,7 +89,7 @@
     sidebar: {"position":"left","display":"post","offset":12,"onmobile":false,"dimmer":false},
     back2top: true,
     back2top_sidebar: false,
-    fancybox: true,
+    fancybox: false,
     fastclick: false,
     lazyload: false,
     tabs: true,
@@ -820,10 +816,6 @@
 
           <div class="post-nav-prev post-nav-item">
             
-              <a href="/2019/06/29/Test/" rel="prev" title="Test">
-                Test <i class="fa fa-chevron-right"></i>
-              </a>
-            
           </div>
         </div>
       
@@ -884,48 +876,14 @@
                 
                   <a href="/archives">
                 
-                    <span class="site-state-item-count">4</span>
+                    <span class="site-state-item-count">2</span>
                     <span class="site-state-item-name">日志</span>
                   </a>
                 </div>
               
 
               
-                
-                
-                <div class="site-state-item site-state-categories">
-                  
-                    
-                      <a href="/categories/">
-                    
-                  
-                    
-                    
-                      
-                    
-                    <span class="site-state-item-count">1</span>
-                    <span class="site-state-item-name">分类</span>
-                  </a>
-                </div>
-              
 
-              
-                
-                
-                <div class="site-state-item site-state-tags">
-                  
-                    
-                      <a href="/tags/">
-                    
-                  
-                    
-                    
-                      
-                    
-                    <span class="site-state-item-count">1</span>
-                    <span class="site-state-item-name">标签</span>
-                  </a>
-                </div>
               
             </nav>
           
@@ -1004,9 +962,25 @@
   <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
   
-
+    <span class="post-meta-item-icon">
+      <i class="fa fa-user"></i>
+    </span>
+    <span class="site-uv" title="总访客量">
+      <span class="busuanzi-value" id="busuanzi_value_site_uv"></span>
+    </span>
   
 
+  
+    <span class="post-meta-divider">|</span>
+  
+
+  
+    <span class="post-meta-item-icon">
+      <i class="fa fa-eye"></i>
+    </span>
+    <span class="site-pv" title="总访问量">
+      <span class="busuanzi-value" id="busuanzi_value_site_pv"></span>
+    </span>
   
 </div>
 
@@ -1055,8 +1029,6 @@
 
 
 
-  
-
 
 
   
@@ -1094,9 +1066,6 @@
 
   
   <script src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
-
-  
-  <script src="/lib/fancybox/source/jquery.fancybox.pack.js"></script>
 
   
   <script src="/lib/three/three.min.js"></script>
